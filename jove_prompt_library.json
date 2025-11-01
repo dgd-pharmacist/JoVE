@@ -3,45 +3,51 @@
     "keyword": "proposal_draft",
     "instruction": "Draft a 250-word JoVE Methods Collection proposal with a concise title, scope statement, rationale, and invitation to contributors. Include: 1) clear thematic scope and research relevance; 2) novelty and importance to experimental reproducibility; 3) target article types (video protocols, methodology papers); and 4) short closing sentence inviting participation. Maintain formal academic tone in British English.",
     "reference": [
+      "https://www.jove.com/authors/overview",
       "https://www.jove.com/files/Instructions_for_Authors.docx",
       "https://app.jove.com/methods-collections"
     ]
   },
   {
     "keyword": "proposal_refine",
-    "instruction": "Refine and polish a draft JoVE Collection proposal. Ensure coherence, adherence to 250-word limit, professional tone, and clarity of scope. Remove redundancy, improve transitions, and confirm alignment with JoVE’s reproducibility mission.",
+    "instruction": "Refine and polish a draft JoVE Collection proposal. Ensure coherence, adherence to the 250-word limit, professional tone, and clarity of scope. Remove redundancy, improve transitions, and confirm alignment with JoVE’s reproducibility mission. The refined version should be concise, focused, and submission-ready.",
     "reference": [
+      "https://www.jove.com/authors/overview",
       "https://www.jove.com/files/Instructions_for_Authors.docx",
       "https://www.jove.com/authors/editorial-policies"
     ]
   },
   {
     "keyword": "abstract_review",
-    "instruction": "Evaluate a 300-word abstract for suitability within the Collection. Provide: 1) Decision (Accept, Revise, or Reject), 2) Three to four justification bullets focusing on clarity, novelty, and reproducibility, 3) Specific improvement advice if Revise, and 4) A short two-sentence editorial message to the author.",
+    "instruction": "Evaluate a 300-word abstract for suitability within the Collection. Provide: 1) Decision (Accept, Revise, or Reject); 2) Three to four justification bullets focusing on clarity, novelty, and reproducibility; 3) Specific improvement advice if Revise; and 4) A short two-sentence editorial message to the author. Maintain professional, balanced, and supportive tone.",
     "reference": [
+      "https://www.jove.com/authors/overview",
       "https://www.jove.com/authors/editorial-policies",
       "https://app.jove.com/methods-collections"
     ]
   },
   {
     "keyword": "accept_mail",
-    "instruction": "Write a formal acceptance email confirming that an author’s abstract or manuscript has been accepted for inclusion in the JoVE Collection. Include: congratulations, mention of next steps for manuscript or video submission, and a polite note about JoVE’s production workflow. Keep within 200 words, signed as Dr. Debabrata Ghosh Dastidar, Guest Editor.",
+    "instruction": "Write a formal acceptance email confirming that an author’s abstract or manuscript has been accepted for inclusion in the JoVE Collection. Include: congratulations, mention of next steps for manuscript or video submission, and a polite note about JoVE’s production workflow. Keep within 200 words and sign as Dr. Debabrata Ghosh Dastidar, Guest Editor.",
     "reference": [
+      "https://www.jove.com/authors/overview",
       "https://www.jove.com/files/author_workflow.pdf"
     ]
   },
   {
     "keyword": "revise_mail",
-    "instruction": "Write a constructive revision request for an author whose abstract or manuscript requires improvements. Provide: 1) three specific actionable feedback points, 2) encouragement for resubmission, and 3) a two-week response timeframe. Keep the tone collegial and positive.",
+    "instruction": "Write a constructive revision request for an author whose abstract or manuscript requires improvements. Provide: 1) three specific actionable feedback points; 2) encouragement for resubmission; and 3) a two-week response timeframe. Maintain collegial tone and focus on clarity, reproducibility, and precision of protocol description.",
     "reference": [
+      "https://www.jove.com/authors/overview",
       "https://www.jove.com/files/media/AuthorProducedCriteria.pdf",
       "https://www.jove.com/authors/editorial-policies"
     ]
   },
   {
     "keyword": "reject_mail",
-    "instruction": "Draft a polite rejection email for an author whose submission is not suitable for the Collection. State key reasons for rejection (out of scope, insufficient reproducibility, or methodological clarity), suggest potential alternatives or improvements, and maintain a professional and supportive tone under 180 words.",
+    "instruction": "Draft a polite rejection email for an author whose submission is not suitable for the Collection. State clear reasons for rejection (e.g., outside scope, insufficient reproducibility, or methodological clarity), suggest alternative publication directions if appropriate, and maintain a respectful tone under 180 words.",
     "reference": [
+      "https://www.jove.com/authors/overview",
       "https://www.jove.com/authors/editorial-policies"
     ]
   },
@@ -49,60 +55,67 @@
     "keyword": "video_structure",
     "instruction": "Provide an ideal section structure and approximate timing for an author-produced JoVE video on a specific method. Sections should include: Introduction (context and objective, 1–2 min), Protocol (step-by-step demonstration, 5–10 min), Representative Results (optional, 1–2 min), Discussion (summary of findings, 1–2 min), and References (brief). Include tips for voiceover clarity, camera angle, and reproducibility.",
     "reference": [
+      "https://www.jove.com/authors/overview",
       "https://www.jove.com/files/media/AuthorProducedCriteria.pdf"
     ]
   },
   {
     "keyword": "author_checklist",
-    "instruction": "Generate a concise 10–12 point checklist for authors preparing a video submission. Include: high-resolution video (≥1080p), steady camera, clear narration, step-by-step protocol order, ethical compliance, inclusion of reagents/equipment details, captions for units, representative results, proper lighting, and voiceover sync. Emphasize reproducibility and professionalism.",
+    "instruction": "Generate a concise 10–12 point checklist for authors preparing a video submission. Include: high-resolution video (≥1080p), steady camera, clear narration, step-by-step protocol order, ethical compliance, inclusion of reagents/equipment details, captions for units, representative results, proper lighting, and voiceover sync. Emphasise reproducibility and professionalism.",
     "reference": [
+      "https://www.jove.com/authors/overview",
       "https://www.jove.com/files/author_workflow.pdf",
       "https://www.jove.com/files/media/AuthorProducedCriteria.pdf"
     ]
   },
   {
     "keyword": "outreach_invite",
-    "instruction": "Draft a personalised invitation email to a potential author or lab leader inviting submission to the Collection. Include: 1) a brief compliment or reference to their recent research, 2) Collection name and relevance, 3) benefits of JoVE video publication, and 4) submission steps with a link. Keep formal, respectful tone under 200 words.",
+    "instruction": "Draft a personalised invitation email to a potential author or lab leader inviting submission to the Collection. Include: 1) a brief compliment or reference to their recent research; 2) Collection name and relevance; 3) benefits of JoVE video publication (visibility, reproducibility); and 4) submission steps with a link. Maintain professional tone under 200 words.",
     "reference": [
+      "https://www.jove.com/authors/overview",
       "https://info.jove.com/guest_editor_interest",
       "https://app.jove.com/methods-collections"
     ]
   },
   {
     "keyword": "linkedin_post",
-    "instruction": "Write a 100–130 word LinkedIn post announcing or promoting the launch of a JoVE Collection. Include: title of the Collection, 1–2 lines about focus area and scientific significance, call to submit abstracts via JoVE’s Collection page, and mention of reproducibility or video visibility advantage. Maintain professional, approachable tone.",
+    "instruction": "Write a 100–130 word LinkedIn post announcing or promoting the launch of a JoVE Collection. Include: title of the Collection, 1–2 lines about its focus and significance, a call to submit abstracts via the JoVE Collection page, and a sentence on the benefit of JoVE’s video-based publication model. Keep tone academic yet approachable.",
     "reference": [
+      "https://www.jove.com/authors/overview",
       "https://app.jove.com/methods-collections"
     ]
   },
   {
     "keyword": "milestone_alert",
-    "instruction": "Compose an internal email to JoVE staff notifying that a Collection has reached a specific milestone (e.g., 5, 8, or 10 accepted articles). Include milestone details, request confirmation of free-publication waiver or next steps, and thank the team for collaboration.",
+    "instruction": "Compose an internal email to JoVE staff notifying that a Collection has reached a milestone (e.g., 5, 8, or 10 accepted articles). Include milestone details, request confirmation of free-publication waiver or next steps, and express appreciation for the team’s support.",
     "reference": [
+      "https://www.jove.com/authors/overview",
       "https://info.jove.com/guest_editor_interest"
     ]
   },
   {
     "keyword": "ethics_flag_check",
-    "instruction": "Review an uploaded manuscript or abstract summary for ethical or editorial policy compliance. Check for issues such as plagiarism, missing ethics approval, improper author attribution, or lack of reproducibility. Output a list of issues and recommended corrective steps.",
+    "instruction": "Review an uploaded manuscript or abstract summary for ethical or editorial policy compliance. Check for issues such as plagiarism, missing ethics approval, improper author attribution, or lack of reproducibility. Output a concise list of identified issues and suggested corrections.",
     "reference": [
+      "https://www.jove.com/authors/overview",
       "https://www.jove.com/authors/editorial-policies"
     ]
   },
   {
     "keyword": "faq_list",
-    "instruction": "Generate 8–10 frequently asked questions (with concise answers) suitable for the Collection webpage. Topics: how to submit an abstract, expected review time, video production workflow, open-access fees, ethical standards, waiver eligibility, and whom to contact.",
+    "instruction": "Generate 8–10 frequently asked questions (with concise answers) suitable for the Collection webpage. Cover topics such as: how to submit an abstract, expected review time, video production workflow, open-access fees, ethical standards, waiver eligibility, and key JoVE contact points.",
     "reference": [
+      "https://www.jove.com/authors/overview",
       "https://help.jove.com/hc/en-us/categories/31079436078540-Authors",
       "https://www.jove.com/authors/publication"
     ]
   },
   {
     "keyword": "editor_bio",
-    "instruction": "Convert the user’s CV or academic highlights into a short 100–150 word biography suitable for the JoVE Collection webpage. Emphasise expertise area, research focus, editorial interests, and statement of commitment to scientific reproducibility. Maintain formal academic tone.",
+    "instruction": "Convert the user's CV or academic highlights into a 100–150 word professional biography suitable for the JoVE Collection webpage. Emphasise expertise area, research focus, editorial experience, and statement of commitment to reproducibility and methodological transparency.",
     "reference": [
+      "https://www.jove.com/authors/overview",
       "https://info.jove.com/guest_editor_interest"
     ]
   }
 ]
-
