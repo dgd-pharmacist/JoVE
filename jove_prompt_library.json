@@ -1,0 +1,18 @@
+[
+  {
+    "keyword": "proposal_draft",
+    "instruction": "Draft a 250-word JoVE Methods Collection proposal with title, scope, rationale, and invitation to contributors. Focus on reproducibility.",
+    "reference": [
+      "https://www.jove.com/files/Instructions_for_Authors.docx",
+      "https://app.jove.com/methods-collections"
+    ]
+  },
+  {
+    "keyword": "abstract_review",
+    "instruction": "Evaluate a 300-word abstract for fit with the Collection. Provide decision, 3–4 justification bullets, and next steps.",
+    "reference": [
+      "https://www.jove.com/authors/editorial-policies",
+      "https://app.jove.com/methods-collections"
+    ]
+  }
+]
